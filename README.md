@@ -1,0 +1,1 @@
+This project consists of html pages of recipes. I will have also demonstrated how to add and commit my project to github using the different commands.
